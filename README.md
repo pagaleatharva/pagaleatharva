@@ -1,7 +1,23 @@
 # 💫 About Me:
-Data Analyst (Fresher) with hands-on experience in SQL, Python, Power BI, and Tableau, delivering<br>actionable business insights through dashboard development, exploratory data analysis (EDA), and statistical<br>reporting. Completed 3 end-to-end analytics projects across HR, healthcare, and e-commerce domains<br>involving 100K+ records. Strong foundation in data wrangling, ETL pipelines, data modeling, and stakeholder<br>reporting. Available immediately
+👋 Hi, I'm Atharva Pagale, a Data Analyst with hands-on experience in SQL, Python, Power BI, and Tableau.
 
+📊 I enjoy transforming raw data into meaningful insights through data cleaning, EDA, ETL, data modeling, statistical analysis, and interactive dashboards.
 
+🚀 I've completed 3 end-to-end analytics projects across HR, Healthcare, and E-commerce, working with 100K+ records to solve practical business problems and communicate actionable insights.
+
+💡 I'm also exploring Generative AI and Prompt Engineering to build smarter and more efficient data workflows.
+
+🎯 Currently: Looking for opportunities as a Data Analyst / BI Analyst / Junior Data Analyst where I can apply my analytical and technical skills, learn from real-world challenges, and contribute to data-driven decision-making.
+
+🛠️ Tech Stack
+
+Languages: Python, SQL
+Data Analysis: Pandas, NumPy, EDA, Data Cleaning
+Visualization & BI: Power BI, Tableau, Excel
+Databases: SQL
+Other: ETL, Data Modeling, Statistical Analysis, Generative AI, Prompt Engineering
+
+📌 Open to: Data Analytics | Business Intelligence | Data Visualization | Entry-Level Analytics Roles
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharvapagale0304) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvapagale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pagaleatharv2002@gmail.com) 
 
