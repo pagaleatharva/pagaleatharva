@@ -1,22 +1,29 @@
 # 💫 About Me:
-👋 Hi, I'm Atharva Pagale, a Data Analyst with hands-on experience in SQL, Python, Power BI, and Tableau.
+👋 I'm Atharva Pagale, a 2026 Computer Engineering graduate with hands-on experience in Data Analytics and a growing interest in Machine Learning and Generative AI.
 
-📊 I enjoy transforming raw data into meaningful insights through data cleaning, EDA, ETL, data modeling, statistical analysis, and interactive dashboards.
+I enjoy working with data to uncover meaningful insights, solve business problems, and support data-driven decision-making. My experience includes data cleaning, exploratory data analysis (EDA), ETL, data modeling, statistical analysis, and developing interactive dashboards.
 
-🚀 I've completed 3 end-to-end analytics projects across HR, Healthcare, and E-commerce, working with 100K+ records to solve practical business problems and communicate actionable insights.
+🤖 Exploring Machine Learning & Generative AI
 
-💡 I'm also exploring Generative AI and Prompt Engineering to build smarter and more efficient data workflows.
+I'm continuously expanding my technical skills and recently started exploring:
+Machine Learning fundamentals and model development.
+Generative AI and Prompt Engineering.
+LangChain for developing LLM-powered applications.
+Groq API for integrating Large Language Models.
+Pydantic for structured output generation and data validation.
+Streamlit for building interactive Python applications.
 
-🎯 Currently: Looking for opportunities as a Data Analyst / BI Analyst / Junior Data Analyst where I can apply my analytical and technical skills, learn from real-world challenges, and contribute to data-driven decision-making.
 
 🛠️ Tech Stack
+Programming: Python, SQL
+Data Analysis: Pandas, NumPy, EDA, Data Cleaning, Statistical Analysis
+Business Intelligence: Power BI, Tableau, Microsoft Excel
+Machine Learning: ML Fundamentals, Model Training, Model Evaluation
+Generative AI: LangChain, Groq API, Prompt Engineering, LLM Integration, Pydantic
+Application Development: Streamlit
+Data Engineering Concepts: ETL, Data Processing, Data Modeling
 
-Languages: Python, SQL
-Data Analysis: Pandas, NumPy, EDA, Data Cleaning
-Visualization & BI: Power BI, Tableau, Excel
-Databases: SQL
-Other: ETL, Data Modeling, Statistical Analysis, Generative AI, Prompt Engineering
-
+Tools: Git, GitHub, Jupyter Notebook
 📌 Open to: Data Analytics | Business Intelligence | Data Visualization | Entry-Level Analytics Roles
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharvapagale0304) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvapagale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pagaleatharv2002@gmail.com) 
